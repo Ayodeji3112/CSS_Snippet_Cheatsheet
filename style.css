@@ -1,0 +1,620 @@
+body{
+    background-color: rgb(9, 9, 31);
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+
+header h1{
+text-align: center;
+color: rgb(149, 93, 149);
+}
+
+
+header p{
+    text-align: center;
+    color: white;
+    font-size: 12px;
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    }
+    
+.card-header
+{
+width: 26%;
+    margin: 49px 0px 0px 60px;
+    padding: 10px;
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 5px;
+    border-color: white;
+    background-color: rgb(9, 9, 31);
+    color: rgb(149, 93, 149);
+    font-size: 20px;
+    font-weight: bolder;
+    font-style: normal;
+    text-align: left;
+    position: relative;
+}
+
+
+.card-header:hover
+{
+
+    background-color: purple;
+    color: antiquewhite;
+    transition: ease-in-out 0.2s;
+}
+
+.card{
+flex-wrap: wrap;
+flex: 1 1 300px;
+    flex-direction: row;
+    margin: 0 auto;
+    margin:-29px 0px 0px 50px;
+    width: 29%;
+    height: 220px;
+    border-radius: 0px;
+    border-color: white;
+    background-color: rgb(9, 9, 31);
+    border-style: dashed;
+    border-width: 2px;
+    box-sizing: border-box;
+
+
+  
+   
+}
+
+
+.card h2{ 
+    color: rgb(149, 93, 149);
+    padding: 30px 0px 0px 20px;
+    font-size: 12px;
+    font-weight: lighter;
+    text-align: left;
+    position: relative;
+}
+
+
+
+.card pre {
+    color: #fff;
+    border-radius: 5px;
+    padding: 38px;
+    background: linear-gradient(180deg, #ed59a3, #d23282);
+    font-size: 100%;
+    white-space: pre-wrap;
+    user-select: all;
+    margin: 60px 20px;
+
+}
+
+
+.card p
+{
+    text-wrap: wrap;
+    display: block;
+    margin: -50px 150px 10px 0px;
+    font-size: 12px;
+    font-weight: lighter;
+    text-align: left;
+    line-height: 1.8em;
+    color: white;
+    margin-bottom: 10px;
+}
+
+/*second*/
+
+
+.card-header1
+{
+
+    margin: -239px 0px 0px 510px;
+    padding: 10px;
+    width: 26%;
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 5px;
+    border-color: white;
+    background-color: rgb(9, 9, 31);
+    color: rgb(149, 93, 149);
+    font-size: 20px;
+    font-weight: bolder;
+    font-style: normal;
+    text-align: left;
+    position: relative;
+}
+
+
+.card-header1:hover
+{
+
+    background-color: purple;
+    color: antiquewhite;
+    transition: ease-in-out 0.2s;
+}
+
+.card1{
+
+    flex-wrap: wrap;
+    flex: 1 1 300px;
+    justify-content: space-evenly;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin: 0 auto;
+    margin:-29px 0px 0px 500px;
+    width: 29%;
+    height: 220px;
+    border-radius: 0px;
+    border-color: white;
+    background-color: rgb(9, 9, 31);
+    border-style: dashed;
+    border-width: 2px;
+    box-sizing: border-box;
+
+
+  
+   
+}
+
+
+.card1 h2{ 
+    color: rgb(149, 93, 149);
+    padding: 30px 0px 0px 20px;
+    font-size: 12px;
+    font-weight: lighter;
+    text-align: left;
+    position: relative;
+}
+
+
+
+.card1 pre {
+    color: #fff;
+    border-radius: 5px;
+    padding: 38px;
+    background: linear-gradient(180deg, #ed59a3, #d23282);
+    font-size: 100%;
+    white-space: pre-wrap;
+    user-select: all;
+    margin: 10px;
+
+}
+
+
+.card1 p
+{
+    
+    text-wrap: wrap;
+    display: block;
+    margin: -50px 150px 10px 0px;
+    font-size: 12px;
+    font-weight: lighter;
+    text-align: left;
+    line-height: 1.8em;
+    color: white;
+    margin: 10px 20px;
+}
+
+
+/*third*/
+.card-header2
+{
+
+    margin: -240px 0px 0px 960px;
+    padding: 10px;
+    width: 26%;
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 5px;
+    border-color: white;
+    background-color: rgb(9, 9, 31);
+    color: rgb(149, 93, 149);
+    font-size: 20px;
+    font-weight: bolder;
+    font-style: normal;
+    text-align: left;
+    position: relative;
+}
+
+
+.card-header2:hover
+{
+
+    background-color: purple;
+    color: antiquewhite;
+    transition: ease-in-out 0.2s;
+}
+
+.card2{
+
+    flex-wrap: wrap;
+    flex: 1 1 300px;
+    justify-content: space-evenly;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin: 0 auto;
+    margin:-29px 0px 0px 950px;
+    width: 29%;
+    height: 220px;
+    border-radius: 0px;
+    border-color: white;
+    background-color: rgb(9, 9, 31);
+    border-style: dashed;
+    border-width: 2px;
+    box-sizing: border-box;
+
+
+  
+   
+}
+
+
+.card2 h2{ 
+    color: rgb(149, 93, 149);
+    padding: 30px 0px 0px 20px;
+    font-size: 12px;
+    font-weight: lighter;
+    text-align: left;
+    position: relative;
+}
+
+
+
+.card2 pre {
+    color: #fff;
+    border-radius: 5px;
+    padding: 20px;
+    background: linear-gradient(180deg, #ed59a3, #d23282);
+    font-size: 100%;
+    white-space: pre-wrap;
+    user-select: all;
+    margin: 20px;
+
+}
+
+
+.card2 p
+{
+    text-wrap: wrap;
+    display: block;
+    margin: -50px 150px 10px 0px;
+    font-size: 12px;
+    font-weight: lighter;
+    text-align: left;
+    line-height: 1.8em;
+    color: white;
+    margin: 10px 20px;
+}
+
+
+/* Fourth*/
+
+.card-header3
+{
+width: 26%;
+    margin: 30px 0px 0px 60px;
+    padding: 10px;
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 5px;
+    border-color: white;
+    background-color: rgb(9, 9, 31);
+    color: rgb(149, 93, 149);
+    font-size: 20px;
+    font-weight: bolder;
+    font-style: normal;
+    text-align: left;
+    position: relative;
+}
+
+
+.card-header3:hover
+{
+
+    background-color: purple;
+    color: antiquewhite;
+    transition: ease-in-out 0.2s;
+}
+
+.card3{
+flex-wrap: wrap;
+flex: 1 1 300px;
+    flex-direction: row;
+    margin: 0 auto;
+    margin:-29px 0px 0px 50px;
+    width: 29%;
+    height: 310px;
+    border-radius: 0px;
+    border-color: white;
+    background-color: rgb(9, 9, 31);
+    border-style: dashed;
+    border-width: 2px;
+    box-sizing: border-box;
+
+
+  
+   
+}
+
+
+.card3 h2{ 
+    color: rgb(149, 93, 149);
+    padding: 30px 0px 0px 20px;
+    font-size: 12px;
+    font-weight: lighter;
+    text-align: left;
+    position: relative;
+}
+
+
+
+.card3 pre {
+    color: #fff;
+    border-radius: 5px;
+    padding: 38px;
+    background: linear-gradient(180deg, #ed59a3, #d23282);
+    font-size: 100%;
+    white-space: pre-wrap;
+    user-select: all;
+    margin: 10px 20px;
+    height: 150px;
+
+}
+
+
+card3 p
+{
+    text-wrap: wrap;
+    display: block;
+    margin: -50px 150px 10px 0px;
+    font-size: 12px;
+    font-weight: lighter;
+    text-align: left;
+    line-height: 1.8em;
+    color: white;
+    margin-bottom: 10px;
+}
+
+
+/*
+Fifth */
+
+
+
+.card-header4
+{
+width: 26%;
+    margin: -330px 0px 0px 510px;
+    padding: 10px;
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 5px;
+    border-color: white;
+    background-color: rgb(9, 9, 31);
+    color: rgb(149, 93, 149);
+    font-size: 20px;
+    font-weight: bolder;
+    font-style: normal;
+    text-align: left;
+    position: relative;
+}
+
+
+.card-header4:hover
+{
+
+    background-color: purple;
+    color: antiquewhite;
+    transition: ease-in-out 0.2s;
+}
+
+.card4{
+flex-wrap: wrap;
+flex: 1 1 300px;
+    flex-direction: row;
+    margin: 0 auto;
+    margin:-28px 0px 0px 500px;
+    width: 29%;
+    height: 310px;
+    border-radius: 0px;
+    border-color: white;
+    background-color: rgb(9, 9, 31);
+    border-style: dashed;
+    border-width: 2px;
+    box-sizing: border-box;
+
+
+  
+   
+}
+
+
+.card4 h2{ 
+    color: rgb(149, 93, 149);
+    padding: 30px 0px 0px 20px;
+    font-size: 12px;
+    font-weight: lighter;
+    text-align: left;
+    position: relative;
+}
+
+
+
+.card4 pre {
+    color: #fff;
+    border-radius: 5px;
+    padding: 5px;
+    background: linear-gradient(180deg, #ed59a3, #d23282);
+    font-size: 100%;
+    white-space: pre-wrap;
+    user-select: all;
+    margin: 70px 20px 10px;
+}
+
+
+.card4 p
+{
+    text-wrap: wrap;
+    display: block;
+    margin: -50px 150px 10px 0px;
+    font-size: 12px;
+    font-weight: lighter;
+    text-align: left;
+    line-height: 1.8em;
+    color: white;
+    margin-bottom: 10px;
+}
+
+/*
+ */
+
+
+
+.card-header5
+{
+width: 26%;
+    margin: -330px 0px 0px 960px;
+    padding: 10px;
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 5px;
+    border-color: white;
+    background-color: rgb(9, 9, 31);
+    color: rgb(149, 93, 149);
+    font-size: 20px;
+    font-weight: bolder;
+    font-style: normal;
+    text-align: left;
+    position: relative;
+}
+
+
+.card-header5:hover
+{
+
+    background-color: purple;
+    color: antiquewhite;
+    transition: ease-in-out 0.2s;
+}
+
+.card5{
+flex-wrap: wrap;
+flex: 1 1 300px;
+    flex-direction: row;
+    margin: 0 auto;
+    margin:-28px 0px 0px 950px;
+    width: 29%;
+    height: 310px;
+    border-radius: 0px;
+    border-color: white;
+    background-color: rgb(9, 9, 31);
+    border-style: dashed;
+    border-width: 2px;
+    box-sizing: border-box;
+
+
+  
+   
+}
+
+
+.card5 h2{ 
+    color: rgb(149, 93, 149);
+    padding: 30px 0px 0px 20px;
+    font-size: 12px;
+    font-weight: lighter;
+    text-align: left;
+    position: relative;
+}
+
+
+
+.card5 pre {
+    color: #fff;
+    border-radius: 5px;
+    padding: 30px;
+    background: linear-gradient(180deg, #ed59a3, #d23282);
+    font-size: 100%;
+    white-space: pre-wrap;
+    user-select: all;
+    margin: 10px;
+    height: 150px;
+
+}
+
+
+card5 p
+{
+    text-wrap: wrap;
+    display: block;
+    margin: -50px 150px 10px 0px;
+    font-size: 12px;
+    font-weight: lighter;
+    text-align: left;
+    line-height: 1.8em;
+    color: white;
+    margin-bottom: 10px;
+}
+
+
+.footer
+{
+    text-decoration: none;
+    font-size: 12px;
+    color: white;
+    text-align: center;
+    margin: 50px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+p {
+    display: none;
+}
+
+
+.footer:hover p
+{
+    display: block;
+    font-size: 50px;
+    font-weight: bolder;
+    margin: -100px;
+    margin-right: auto;
+    margin-left: auto;
+    text-align: central;
+}
+
+
+
+
+@media only screen and (max-width: 992px) {
+    .card,  .card1,  .card2,  .card3,  .card4,  .card5, .card-header, .card-header1, .card-header2, .card-header3, .card-header4, .card-header5, header
+
+{
+    width: 25%;
+}
+
+}
+
+
+@media only screen and (max-width: 600px) {
+    .card,  .card1,  .card2,  .card3,  .card4,  .card5, .card-header, .card-header1, .card-header2, .card-header3, .card-header4, .card-header5, header
+
+{
+    width: 50%;
+}
+
+}
+
+@media only screen and (max-width: 400px) {
+    body, .card,  .card1,  .card2,  .card3,  .card4,  .card5, .card-header, .card-header1, .card-header2, .card-header3, .card-header4, .card-header5, header
+
+{
+    width: 100%;
+}
+
+}
